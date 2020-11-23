@@ -1,9 +1,9 @@
-# 1660project
+# CS1660 Project Option 1
 
 Pre-Reqs
 
 1. Able to run Docker Desktop on your computer as an administrator, Linux containers
-2. Atleast 50GB of space on your C drive
+2. At least 50GB of space on your C drive
 
 Steps 
 1. Pull the zip file
